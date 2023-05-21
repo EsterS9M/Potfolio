@@ -48,7 +48,7 @@ header .navegacao-primaria li a {
 
 .section-div {
   background-color: #000;
-  display: flex;
+  display: grid;
   grid-template-columns: 1fr 1fr;
   justify-content: space-around;
   align-items: center;
@@ -80,7 +80,7 @@ header .navegacao-primaria li a {
   color: #fff;
   padding: 15px 40px;
   border-radius: 5px;
-  border: 1px solid white;
+  border: 2px solid white;
 }
 
 .section-div img {
